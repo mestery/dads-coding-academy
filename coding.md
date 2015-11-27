@@ -1,5 +1,5 @@
-Dad's Coding Camp
-=================
+Dad's Coding Academy
+====================
 
 The following are things to learn:
 * terminal
