@@ -42,5 +42,5 @@ Python
 [4]: https://github.com/gjtorikian/markdowntutorial.com
 [5]: https://daringfireball.net/projects/markdown/basics
 [6]: http://2010.osdc.com.au/proposal/196/git-ages-4-and
-[7]: https://guides.github.com/activities/hello-world/]
+[7]: https://guides.github.com/activities/hello-world/
 [8]: https://github.com/mechanicalgirl/young-coders-tutorial
