@@ -36,9 +36,9 @@ Python
 
 * [Young Coders Class][8].
 
-[1]: http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/]
+[1]: http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/
 [2]: http://www.openvim.com/
-[3]: http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/]
+[3]: http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/
 [4]: https://github.com/gjtorikian/markdowntutorial.com
 [5]: https://daringfireball.net/projects/markdown/basics
 [6]: http://2010.osdc.com.au/proposal/196/git-ages-4-and
